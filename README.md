@@ -34,7 +34,4 @@
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
----
 
-[StefanosSt](https://github.com/StefanosSt)
-Last Edited on : 13/08/2023
